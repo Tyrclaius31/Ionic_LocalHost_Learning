@@ -1,0 +1,7 @@
+{
+  "name": "ejercicio_localhost",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
